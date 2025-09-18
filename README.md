@@ -1,4 +1,4 @@
-# 🐉 D&D AI Dungeon Master - Lost Mine of Phandelver
+# 🐉 Simple D&D AI Dungeon Master - Lost Mine of Phandelver
 
 An interactive Dungeons & Dragons solo adventure powered by AI, featuring the classic "Lost Mine of Phandelver" campaign. This Streamlit application serves as your personal AI Dungeon Master, managing character sheets, dice rolling, inventory, and immersive storytelling.
 
